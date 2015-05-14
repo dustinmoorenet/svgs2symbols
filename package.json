@@ -1,0 +1,25 @@
+{
+  "name": "svgs2symbols",
+  "version": "1.0.0",
+  "description": "Combines multiple SVG files into one SVG with contents as symbols",
+  "main": "index.js",
+  "bin": {
+    "svgs2symbols": "svgs2symbols.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "svg",
+    "symbol",
+    "sprite",
+    "icon"
+  ],
+  "author": "Dustin Moore",
+  "license": "MIT",
+  "dependencies": {
+    "cheerio": "0.19.0",
+    "commander": "2.8.1",
+    "when": "3.7.3"
+  }
+}
