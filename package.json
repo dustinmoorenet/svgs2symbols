@@ -2,7 +2,8 @@
   "name": "svgs2symbols",
   "version": "1.0.0",
   "description": "Combines multiple SVG files into one SVG with contents as symbols",
-  "main": "index.js",
+  "repository": "https://github.com/dustinmoorenet/svgs2symbols.git",
+  "main": "svgs2symbols.js",
   "bin": {
     "svgs2symbols": "svgs2symbols.js"
   },
